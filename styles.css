@@ -62,7 +62,7 @@ h4{
     position: relative;
     margin: 0;
     padding: 0;
-    margin-bottom: .8rem;
+    margin-bottom: .7rem;
 
 }
 
@@ -71,7 +71,7 @@ h4{
     display: flex;
     justify-content: center;
     align-items: center; 
-    margin-bottom: 1.4rem;
+    margin-bottom: 1.2rem;
 }
 
 .video.container{
