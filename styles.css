@@ -70,7 +70,7 @@ h4{
     display: flex;
     justify-content: center;
     align-items: center; 
-    margin-bottom: 2rem;
+    margin-bottom: 1.6rem;
 }
 
 .video.container{
@@ -88,5 +88,5 @@ img{
 }
 
 iframe {
-   border: 4px rgba(21,65,109,0.75) solid;
+   //border: 4px rgba(21,65,109,0.75) solid;
 }
