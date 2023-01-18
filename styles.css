@@ -20,7 +20,8 @@
 
 body{
     //padding: 1rem;
-    background: var(--bodyColor);
+    //background: var(--bodyColor);
+    background: red;
 }
 
 h1{
