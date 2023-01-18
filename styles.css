@@ -25,14 +25,14 @@ body{
 
 h1{
     font-weight: bold;
-    font-size: 1.8rem;
+    font-size: 2rem;
     position: relative;
     margin: 0;
-    //border-bottom: 2px solid rgb(190, 190, 190);
+    border-bottom: 2px solid rgb(190, 190, 190);
     color: red;
 }
 
-/*h1:after{
+h1:after{
     position: absolute;
     content: '';
     background: hsl(187, 85%, 43%);
@@ -41,7 +41,7 @@ h1{
     right: 0;
     bottom: +15px;
     z-index: -1;
-}*/
+}
 
         
 
