@@ -29,7 +29,6 @@ h1{
     position: relative;   
     border-bottom: 2px solid var(--greyText);
     margin: 5px;
-    margin-top: 3px;
     color: red;
 }
 
