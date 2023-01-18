@@ -24,14 +24,14 @@ body{
 }
 
 h1{
-    font-size: 3.5rem;
+    font-size: 2.5rem;
     position: relative;   
     border-bottom: 2px solid var(--greyText);
-    margin: 10px;
+    margin: 7px;
     color: red;
 }
 
-h1:after{
+/*h1:after{
     position: absolute;
     content: '';
     background: var(--SecondaryColor);
@@ -40,7 +40,7 @@ h1:after{
     right: 0;
     bottom: +15px;
     z-index: -1;
-} 
+} */
 
         
 
