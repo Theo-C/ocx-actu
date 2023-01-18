@@ -86,3 +86,7 @@ img{
 	top: 0.1rem;	
 	border:
 }
+
+iframe {
+   border: 2px rgba(21,65,109,1) solid;
+}
