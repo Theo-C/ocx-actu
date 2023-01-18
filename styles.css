@@ -49,16 +49,16 @@ h4{
 
 
 
-.main.container{
+/*.main.container{
     position: absolute;
     background: white;
-    border-radius: 30px;
+    //border-radius: 30px;
     width: 60%;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
 
-}
+}*/
 
 .title.container{
     display: flex;
@@ -76,6 +76,6 @@ h4{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-bottom: 3rem;
+    //padding-bottom: 3rem;
 }
 
