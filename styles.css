@@ -27,6 +27,8 @@ h1{
     font-size: 3.5rem;
     position: relative;   
     border-bottom: 2px solid var(--greyText);
+    margin: 10px;
+    color: red;
 }
 
 h1:after{
