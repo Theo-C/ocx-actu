@@ -20,8 +20,7 @@
 
 body{
     //padding: 1rem;
-    //background: var(--bodyColor);
-    background: red;
+    background: rgb(240, 240, 246);
 }
 
 h1{
@@ -29,7 +28,6 @@ h1{
     font-size: 2.5rem;
     position: relative;   
     //border-bottom: 2px solid var(--greyText);
-    margin: 5px;
     color: red;
 }
 
