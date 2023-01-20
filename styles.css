@@ -82,12 +82,12 @@ h4{
 }
 
 img{
-    height:43px;
+    height:41px;
     position: absolute;
     left: 0.05rem;
     top: 0.05rem;	
 }
 
 iframe{
-   border: 4px rgba(21,65,109,0.75) solid;
+   border: 4px rgba(21,65,109,0.85) solid;
 }
