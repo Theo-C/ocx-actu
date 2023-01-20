@@ -81,10 +81,17 @@ h4{
     //padding-bottom: 3rem;
 }
 
-img{
+#clesence{
     height:41px;
     position: absolute;
     left: 0rem;
+    top: 0rem;	
+}
+
+#tickit{
+    height:41px;
+    position: absolute;
+    right: 0rem;
     top: 0rem;	
 }
 
