@@ -71,7 +71,7 @@ h4{
     display: flex;
     justify-content: center;
     align-items: center; 
-    margin-bottom: 1rem;
+    margin-bottom: 1.2rem;
 }
 
 .video.container{
@@ -90,7 +90,7 @@ h4{
 #tickit{
     height:35px;
     position: absolute;
-    left: 45.5rem;
+    left: 45.7rem;
     top: -0.5rem;	
 }
 
