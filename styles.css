@@ -83,15 +83,15 @@ h4{
 #clesence{
     height: 39.5px;
     position: absolute;
-    left: 0rem;
-    top: 0rem;	
+    left: -0.5rem;
+    top: -0.5rem;	
 }
 
 #tickit{
     height:35px;
     position: absolute;
-    left: 45.5rem;
-    top: 0rem;	
+    left: 45rem;
+    top: -0.5rem;	
 }
 
 iframe{
